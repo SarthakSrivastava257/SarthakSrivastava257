@@ -7,7 +7,7 @@ Web Developer
 I'm a Student, learning different technologies and advancements !
 
 * 🌍  I'm based in India
-* ✉️  You can contact me at [sarthaksrivastava20022002@gmail.com](mailto:sarthaksrivastava20022002@gmail.com)
+* ✉️  You can contact me at [sarthakofficial257@gmail.com](mailto:sarthakofficial257@gmail.com)
 * 🧠  I'm learning JavaScript and React
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I'm secretly Spiderman, but don't tell anyone !
