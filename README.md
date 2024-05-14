@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Data Structures and Algorithms<br>👯 I’m looking to collaborate on projects based on .Net framework <br>🌱 I’m currently learning .Net Framework<br>⚡ Fun fact, I'm secretly Spiderman
+🔭 I’m currently working on Data Structures and Algorithms<br>👯 I’m looking to collaborate on projects based on C++ libraries <br>🌱 I’m currently learning C++ 17 STL <br>⚡ Fun fact, I'm secretly Spiderman!
 
 
 ## 🌐 Socials:
