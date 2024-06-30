@@ -25,7 +25,11 @@
 ![](https://github-contributor-stats.vercel.app/api?username=sarthaksrivastava257&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
+
+<img src="(https://api.memegen.link/images/aag/_/aliens.png)" width="512px"/>
+<!---
 <img src="https://rm.up.railway.app/" width="512px"/>
+--->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sarthaksrivastava257&icon=0&color=0)](https://visitcount.itsvg.in)
