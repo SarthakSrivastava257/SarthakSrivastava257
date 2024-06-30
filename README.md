@@ -26,7 +26,7 @@
 
 ### 😂 Random Dev Meme
 
-<img src="(https://api.memegen.link/images/aag/_/aliens.png)" width="512px"/>
+<img src="https://api.memegen.link/images/buzz/memes/memes_everywhere.webp" width="512px"/>
 <!---
 <img src="https://rm.up.railway.app/" width="512px"/>
 --->
